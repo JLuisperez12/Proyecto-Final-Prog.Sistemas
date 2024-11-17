@@ -1,0 +1,104 @@
+﻿  Proyecto Final Prog.Sistemas.cpp
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(194,5): error C4235: se ha utilizado una extensión no estándar: la palabra clave '__asm' no se admite en esta arquitectura
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,9): error C2065: 'mov': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,13): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,13): error C2065: 'eax': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,33): error C2065: 'Cargar': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,40): error C2146: error de sintaxis: falta ';' delante del identificador 'el'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,40): error C2065: 'el': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,43): error C2146: error de sintaxis: falta ';' delante del identificador 'nÃºmero'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,43): error C2065: 'nÃºmero': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,53): error C2146: error de sintaxis: falta ';' delante del identificador 'decimal'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,53): error C2065: 'decimal': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,61): error C2146: error de sintaxis: falta ';' delante del identificador 'en'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,61): error C2065: 'en': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,64): error C2146: error de sintaxis: falta ';' delante del identificador 'EAX'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(195,64): error C2065: 'EAX': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(196,9): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(196,9): error C2065: 'mov': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(196,13): error C2146: error de sintaxis: falta ';' delante del identificador 'ecx'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(196,13): error C2065: 'ecx': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(196,27): error C2065: 'Configurar': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(196,38): error C2146: error de sintaxis: falta ';' delante del identificador 'el'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(196,38): error C2065: 'el': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(196,41): error C2146: error de sintaxis: falta ';' delante del identificador 'contador'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(196,41): error C2065: 'contador': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(196,50): error C2146: error de sintaxis: falta ';' delante del identificador 'para'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(196,50): error C2065: 'para': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(196,55): error C2143: error de sintaxis: falta ';' delante de 'constante'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(196,58): error C2146: error de sintaxis: falta ';' delante del identificador 'bits'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(198,9): error C2146: error de sintaxis: falta ';' delante del identificador 'conversion_loop'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,9): error C2065: 'shl': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,13): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,13): error C2065: 'eax': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,21): error C2065: 'Desplazar': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,31): error C2146: error de sintaxis: falta ';' delante del identificador 'a'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,31): error C2065: 'a': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,33): error C2146: error de sintaxis: falta ';' delante del identificador 'la'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,33): error C2065: 'la': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,36): error C2146: error de sintaxis: falta ';' delante del identificador 'izquierda'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,36): error C2065: 'izquierda': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,47): error C2065: 'el': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,54): error C3872: '0xa1': este carácter no se permite en un identificador
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,50): error C2146: error de sintaxis: falta ';' delante del identificador 'bit'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,50): error C2065: 'bit': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,54): error C2146: error de sintaxis: falta ';' delante del identificador 'mÃ¡s'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,54): error C2065: 'mÃ¡s': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,61): error C2146: error de sintaxis: falta ';' delante del identificador 'significativo'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,61): error C2065: 'significativo': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,75): error C2146: error de sintaxis: falta ';' delante del identificador 'va'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,75): error C2065: 'va': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,78): error C2146: error de sintaxis: falta ';' delante del identificador 'a'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,78): error C2065: 'a': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,80): error C2146: error de sintaxis: falta ';' delante del identificador 'CF'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(199,80): error C2065: 'CF': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,13): error C2146: error de sintaxis: falta ';' delante del identificador 'jnc'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,13): error C2065: 'jnc': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,17): error C2146: error de sintaxis: falta ';' delante del identificador 'zero_bit'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,17): error C2065: 'zero_bit': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,27): error C2065: 'Si': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,30): error C2146: error de sintaxis: falta ';' delante del identificador 'CF'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,36): error C3872: '0xa1': este carácter no se permite en un identificador
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,30): error C2065: 'CF': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,33): error C2146: error de sintaxis: falta ';' delante del identificador 'no'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,33): error C2065: 'no': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,36): error C2146: error de sintaxis: falta ';' delante del identificador 'estÃ¡'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,36): error C2065: 'estÃ¡': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,44): error C2146: error de sintaxis: falta ';' delante del identificador 'configurado'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,44): error C2065: 'configurado': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,57): error C2065: 'el': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,60): error C2146: error de sintaxis: falta ';' delante del identificador 'bit'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,60): error C2065: 'bit': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,64): error C2146: error de sintaxis: falta ';' delante del identificador 'es'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,64): error C2065: 'es': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(200,67): error C2143: error de sintaxis: falta ';' delante de 'constante'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,13): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,13): error C2065: 'mov': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,17): error C2146: error de sintaxis: falta ';' delante del identificador 'bits'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,41): error C3872: '0xa1': este carácter no se permite en un identificador
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,35): error C2065: 'Si': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,38): error C2146: error de sintaxis: falta ';' delante del identificador 'CF'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,38): error C2065: 'CF': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,41): error C2146: error de sintaxis: falta ';' delante del identificador 'estÃ¡'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,41): error C2065: 'estÃ¡': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,49): error C2146: error de sintaxis: falta ';' delante del identificador 'configurado'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,49): error C2065: 'configurado': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,62): error C2065: 'el': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,65): error C2146: error de sintaxis: falta ';' delante del identificador 'bit'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,65): error C2065: 'bit': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,69): error C2146: error de sintaxis: falta ';' delante del identificador 'es'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,69): error C2065: 'es': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(201,72): error C2143: error de sintaxis: falta ';' delante de 'constante'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(202,13): error C2146: error de sintaxis: falta ';' delante del identificador 'jmp'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(202,13): error C2065: 'jmp': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(202,17): error C2146: error de sintaxis: falta ';' delante del identificador 'store_bit'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(202,17): error C2065: 'store_bit': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(203,13): error C2146: error de sintaxis: falta ';' delante del identificador 'zero_bit'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(204,9): error C2065: 'mov': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(204,13): error C2146: error de sintaxis: falta ';' delante del identificador 'bits'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(204,31): error C2065: 'Si': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(204,34): error C2146: error de sintaxis: falta ';' delante del identificador 'CF'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(204,40): error C3872: '0xa1': este carácter no se permite en un identificador
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(204,34): error C2065: 'CF': identificador no declarado
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(204,37): error C2146: error de sintaxis: falta ';' delante del identificador 'no'
+C:\Users\perez\source\repos\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas\Proyecto Final Prog.Sistemas.cpp(204,40): fatal error C1003: el recuento de errores supera 100; se detiene la compilación
